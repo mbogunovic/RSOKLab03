@@ -10,7 +10,8 @@ namespace RSOKLab03
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Updated RSOK");
+			Console.WriteLine("Hello RSOK");
+			Console.WriteLine("Merging RSOK");
 		}
 	}
 }
